@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BOB-0.1";
 const contentToCache = [
-    "Build/BUILDS.loader.js",
-    "Build/BUILDS.framework.js",
-    "Build/BUILDS.data",
-    "Build/BUILDS.wasm",
+    "Build/webgl.loader.js",
+    "Build/webgl.framework.js",
+    "Build/webgl.data",
+    "Build/webgl.wasm",
     "TemplateData/style.css"
 
 ];
